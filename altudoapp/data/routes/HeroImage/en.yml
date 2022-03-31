@@ -1,0 +1,10 @@
+id: HeroImage-origin
+fields:
+  pageTitle: HeroImage-details article
+placeholders:
+  jss-main:
+    - componentName: HeroImage
+      fields:
+        HeroImage:
+          src: /data/media/img/sc_logo.png
+          alt: Sitecore Logo

@@ -1,0 +1,9 @@
+id: PageNotfound-origin
+fields:
+  pageTitle: PageNotFound-article
+placeholders:
+  jss-main:
+    - componentName: PageNotFound
+      fields:
+        Title: 'The page you have entered is not found'
+        Description: 'You have entered invalid page name.Please check and enter valid page'

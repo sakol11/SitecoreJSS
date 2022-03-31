@@ -1,0 +1,11 @@
+id: DoctorInfo-origin
+fields:
+  pageTitle: DoctorInfo-details page article
+placeholders:
+  jss-main:
+    - componentName: DoctorInfo
+      fields:
+        DoctorName: 'Prashanth'
+        Qualification: 'MBBS FRCS'
+        Speciality: 'Ortho'
+        Experience: 4 years

@@ -1,0 +1,26 @@
+a[target='_blank']:after {
+  content: '\1F5D7'
+}
+
+/*
+  Hides Sitecore Experience Editor markup,
+  if you run the app in connected mode while the Sitecore cookies
+  are set to edit mode.
+*/
+.scChromeData, .scpm { display: none !important; }
+
+.imgCarousel {
+  width : 1100px;
+  height : 400px;
+}
+
+.corouselDiv {
+  border: 1px solid rgb(31, 213, 245);
+}
+
+/* .slick-arrow {
+  background-color: aqua;
+} */
+.slick-prev:before, .slick-next:before{
+  color:rgb(0, 183, 255);
+}

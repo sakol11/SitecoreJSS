@@ -1,0 +1,12 @@
+
+id: Docotor-origin
+fields:
+  pageTitle: Prescription-details page article
+placeholders:
+  jss-main:
+    - componentName: DoctorPrescription
+      fields:
+        Prescription          : "Paracetomol,Cetrizine,dolo 650"
+        DateofPrescription    : "01-07-1982"
+           
+         

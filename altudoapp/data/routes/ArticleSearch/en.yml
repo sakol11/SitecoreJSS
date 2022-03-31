@@ -1,0 +1,8 @@
+id: ArticleSearch-origin
+fields:
+  pageTitle: ArticleSearch-details page article
+placeholders:
+  jss-main:
+    - componentName: ArticleSearch
+      fields:
+       

@@ -1,0 +1,11 @@
+id: DoctorInfo2-origin
+fields:
+  pageTitle: DoctorInfo-details page article
+placeholders:
+  jss-main:
+    - componentName: DoctorInfo
+      fields:
+        DoctorName: 'Krishna'
+        Qualification: 'MBBS FRCS'
+        Speciality: 'neuro'
+        Experience: 5 years

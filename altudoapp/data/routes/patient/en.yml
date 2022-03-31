@@ -1,0 +1,15 @@
+
+id: patient-origin
+fields:
+  pageTitle: patient-details page article
+placeholders:
+  jss-main:
+    - componentName: PatientInfo
+      fields:
+        patientName   : "Vinod kumar"
+        patientGender : "Male"
+        # patientDob    : "01-07-1982"
+        # patientNo     : "12"
+        # patientPhNo   : "9848546789"
+           
+         

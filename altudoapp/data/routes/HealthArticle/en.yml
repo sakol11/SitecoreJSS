@@ -1,0 +1,28 @@
+id: HealthArticle-origin
+fields:
+  pageTitle: Health-details article
+placeholders:
+  jss-main:
+    - componentName: HeroImage
+      fields:
+        HeroImage:
+          src: /data/media/img/sc_logo.png
+          alt: Sitecore Logo
+    - componentName: HealthArticle
+      fields:
+        Title: 'Vinod kumar'
+        Breif: 'This article gives complete info related to person 1 health and his medical records'
+        DetailedArticle: 'Healthline News reports on emerging research, new treatments, diet, exercise, and trending topics in health and wellness. All articles are written by our network of editors and contributors. Everything we publish is fact checked by our panel of experts.'
+        ArticleImage:
+          src: /data/media/img/sc_logo.png
+          alt: Sitecore Logo
+        ArticleLink: 
+          href : https://www.sitecore.com/  
+          text : SitecoreLink
+        ArticleAuthors:
+          - id: Doctor-1
+          - id: Doctor-2
+    - componentName: RelatedArticle
+      fields:  
+        RelatedArticle: 'This component shows all related articles'    
+
